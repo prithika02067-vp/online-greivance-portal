@@ -1,3 +1,4 @@
+
 # CivicDesk: Online Grievance Redressal Portal
 
 A full-stack grievance workflow built with React/Vite, Express, MongoDB/Mongoose, JWT, bcrypt, Multer, Nodemailer, node-cron, and Recharts.
@@ -60,3 +61,5 @@ VITE_API_URL=http://localhost:5000/api
 - `backend/jobs`: scheduled escalation
 - `frontend/src/App.jsx`: routed role-based application shell
 - `frontend/src/index.css`: responsive visual system
+
+# online-greivance-portal
